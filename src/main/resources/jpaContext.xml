@@ -43,9 +43,15 @@
 	
 	<bean id="dataSource" class= "org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-		<property name="url" value="jdbc:mysql://localhost:3306/fitnesstracker?autoReconnect=true"/>
-		<property name="username" value="root"/>
-		<property name="password" value="rootpasroot"/>
+		<property name="url" value="jdbc:mysql://127.7.116.130:3306/fitnesstracker?autoReconnect=true"/>
+		<property name="username" value="adminFf9xN5c"/>
+		<property name="password" value="5BQAF2G8S8u7"/>
 	</bean>
 	
 </beans>
+
+
+<!--<property name="url" value="jdbc:mysql://localhost:3306/fitnesstracker?autoReconnect=true"/>
+		<property name="username" value="root"/>
+		<property name="password" value="rootpasroot"/>
+		-->
