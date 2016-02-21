@@ -7,5 +7,6 @@ http://pluralsight.com/training/Courses/TableOfContents/maven-fundamentals
 
 http://pluralsight.com/training/Courses/TableOfContents/springmvc-intro
 
-you can view the result on the site >> fitnesstracker-myuniquedomain.rhcloud.com
+you can view the result on the site >>
+http://fitnesstracker-myuniquedomain.rhcloud.com
 
